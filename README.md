@@ -18,7 +18,7 @@ There are no rules about genre or style. Albums and songs can be anything: rock,
 
 Music, lyrics and voice generated with AI are **not allowed** in this repository. All audio and lyrics must be created by humans.
 
-AI tools may be used for supporting files, such as metadata and README files.
+AI tools may be used for supporting files, such as metadata and README files, and to write pull request descriptions.
 
 ## How to contribute
 
