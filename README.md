@@ -10,6 +10,16 @@ samples/
 albums/          # finished songs and productions
 ```
 
+## Any genre, any style
+
+There are no rules about genre or style. Albums and songs can be anything: rock, folk, techno, background music, whatever you like. The goal is to have fun.
+
+## AI usage
+
+Music, lyrics and voice generated with AI are **not allowed** in this repository. All audio and lyrics must be created by humans.
+
+AI tools may be used for supporting files, such as metadata and README files.
+
 ## How to contribute
 
 1. Fork the repository and create a branch.
