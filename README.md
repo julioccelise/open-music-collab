@@ -12,7 +12,7 @@ albums/          # finished songs and productions
 
 ## Any genre, any style
 
-There are no rules about genre or style. Albums and songs can be anything: rock, folk, techno, background music, whatever you like. The goal is to have fun.
+There are no rules about genre or style. Albums and songs can be anything: rock, folk, techno, background music, whatever you like. Lyrics can be written in any language. The goal is to have fun.
 
 ## AI usage
 
